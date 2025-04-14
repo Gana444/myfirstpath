@@ -1,4 +1,4 @@
-const scriptURL = 'https://script.google.com/macros/s/AKfycbzjNPnMCR_zVRlZUiJ1nw37pOJXNXgYyeqRAeNGiMKlvT4AW-oQJMataMRINE_PqvE1uQ/exec';
+const scriptURL = 'https://cors-anywhere.herokuapp.com/https://script.google.com/macros/s/AKfycbzjNPnMCR_zVRlZUiJ1nw37pOJXNXgYyeqRAeNGiMKlvT4AW-oQJMataMRINE_PqvE1uQ/exec';
 
 document.getElementById("contact-form").addEventListener("submit", function (e) {
   e.preventDefault();
